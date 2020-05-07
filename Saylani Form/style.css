@@ -1,0 +1,66 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.cen {
+    text-align: center;
+    
+}
+
+H1 {
+    text-decoration: underline;
+    text-align: center;
+    color: #6B5ACD;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+form {
+    background-color: #6B5ACD;
+}
+
+table {
+    color: white;
+    background-color: #6B5ACD;
+    padding: 5px;
+    border: 3px solid #43349D;
+}
+
+.small{
+    font-size: 14px;
+}
+.border{
+    border: 0px;
+}
+
+.top {
+    vertical-align: text-top;
+}
+
+
+
+.submit {
+    text-align: right;
+    width: 250px;
+}
+
+h2 {
+    font-size: 35px;
+    color: #008D17;
+    text-align: center;
+}
+
+.size {
+    font-size: 25px;
+    color: #7405CE;
+    font-weight: bold;
+    text-align: center;
+}
+
+.back {
+    font-size: 35px;
+    font-weight: bold;
+    color: #570A94;
+    text-align: center;
+}
